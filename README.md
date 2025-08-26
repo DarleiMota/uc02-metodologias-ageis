@@ -6,8 +6,8 @@ Esta unidade aborda a transição de paradigmas na gestão de projetos, evoluind
 ---
 
 # Índice
-1. [📜 Metodologias Tradicionais (Cascata/Waterfall)](#1📜-metodologias-tradicionais-cascatawaterfall)  
-2. [⚡ Metodologias Ágeis](#2⚡-metodologias-ágeis)  
+1. [📜 Metodologias Tradicionais (Cascata/Waterfall)](#1-metodologias-tradicionais-cascatawaterfall)
+2. [⚡ Metodologias Ágeis](#2-metodologias-%C3%A1geis)
 3. [🌀 Scrum](#3-🌀-scrum)  
 4. [🏭 Lean](#4-🏭-lean)  
 5. [📊 Kanban](#5-📊-kanban)  
